@@ -1,4 +1,4 @@
-f = open('rosalind_dna_001.txt')
+f = open('001rosalind_dna.txt')
 seq = f.read().strip()
 
 A, C, G, T = 0, 0, 0, 0
